@@ -12,6 +12,20 @@ export default {
         "grv-light":   "#69cff6",
         "grv-pale":    "#81c8e4",
         "grv-text":    "#f5f5f5",
+
+         // Light mode 
+  "l-bg":        "#f0f7ff",
+  "l-surface":   "#ffffff",
+  "l-card":      "#e8f4fd",
+  "l-border":    "#bde0f5",
+  "l-sky":       "#0e86c8",
+  "l-deep":      "#0a5a8c",
+  "l-accent":    "#f59e0b",
+  "l-pink":      "#ec4899",
+  "l-purple":    "#8b5cf6",
+  "l-green":     "#10b981",
+  "l-text":      "#0d2136",
+  "l-muted":     "#4a7a99",
       },
       fontFamily: {
         cairo: ["Cairo", "sans-serif"],
